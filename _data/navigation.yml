@@ -2,5 +2,5 @@
 main:
   - title: "Baekjoon"
     url: /categories/baekjoon/
-  - title: "Categories"
-    url: /categories/
+#  - title: "Categories"
+#    url: /categories/
