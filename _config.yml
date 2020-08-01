@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Soobin Hwang blog"
 title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : #"취미코딩하는 개발자"
-description              : #"회사에서는 월급 받고 집에서는 취미로 코딩하는 개발자의 블로그"
+name                     : #
+description              : #
 url                      : "https://olivier523.github.io"
 baseurl                  : ""# 서브 경로가 있는 경우 기재
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # 블로그 댓글 기능 false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "devinlife-github-io" # 블로그 댓글 기능 https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : #"devinlife-github-io" # 블로그 댓글 기능 https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/bio-photo-keyboard.jpg"
+og_image                 : #"/assets/images/bio-photo-keyboard.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -92,18 +92,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "취미코딩하는 개발자"
-  avatar           : "/assets/images/bio-photo-keyboard.jpg"
-  bio              : "회사에서는 월급 받고 집에서는 취미로 코딩하는 개발자"
+  name             : #"취미코딩하는 개발자"
+  avatar           : #"/assets/images/bio-photo-keyboard.jpg"
+  bio              : #"회사에서는 월급 받고 집에서는 취미로 코딩하는 개발자"
   location         : "South Korea"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:devinlifeidea@gmail.com
+      url: #mailto:devinlifeidea@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://devinlife.com"
+      url: #"https://devinlife.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -112,7 +112,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/devinlife"
+      url: #"https://github.com/devinlife"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -128,7 +128,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/devinlife"
+      url: #"https://github.com/devinlife"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
